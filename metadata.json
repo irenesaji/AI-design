@@ -1,0 +1,5 @@
+{
+  "name": "Architectural Design Generator",
+  "description": "Generate professional architectural drawings for houses based on custom specifications like style, layout, color scheme, and room configurations. Choose from various view types including floor plans and elevations.",
+  "requestFramePermissions": []
+}
